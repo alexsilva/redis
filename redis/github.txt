@@ -1,1 +1,1 @@
-https://github.com/tporadowski/redis @v4.0.14
+https://github.com/tporadowski/redis @v4.0.14.2

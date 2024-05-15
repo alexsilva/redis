@@ -9,7 +9,7 @@ redis_dir = os.path.join(base_dir, redis_dirname)
 
 setup(
     name='redis-bin',
-    version='5.0.10',  # redis version
+    version='5.0.14.1',  # redis version
     url='https://github.com/alexsilva/redis',
     license='MIT',
     author='alex',
